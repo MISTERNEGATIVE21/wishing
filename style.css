@@ -22,11 +22,7 @@ img.center {
     display: block;
     margin: 0 auto;
 }
-.wishText animate__delay-5s{
-	   --animate-delay: 3.7s;
-    --animate-duration: 4s;
-}
-}
+
 
 .animate__animated.animate__rotateIn {
     --animate-duration: 2s;
